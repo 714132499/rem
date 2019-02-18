@@ -11,4 +11,4 @@
     win.addEventListener("resize", htmlFont, false);
 })(document, window);
 
-//���ͼ�ߴ��100�� �ó�remֵ
+//设计图尺寸除以100，得到相应移动端rem值
